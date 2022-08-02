@@ -72,6 +72,8 @@
     - usbutils
     - neovim
     - wpasupplicant
+    - nano
+    - htop
 
 - name: Generate locales
   locale_gen:
